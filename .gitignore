@@ -5,3 +5,4 @@ __pycache__/
 # Do not upload trained model files
 */models/*
 !*/models/.gitkeep
+.ipynb_checkpoints/
