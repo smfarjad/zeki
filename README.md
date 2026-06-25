@@ -21,7 +21,7 @@ Each experiment directory contains the scripts and folders required to execute t
 - `models/` — directory for the corresponding model files
 - `Images100/` — contains 100 images used for the classification task. These images are licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) and are attributed to Özgenel, Çağlar Fırat (2019), “Concrete Crack Images for Classification”, Mendeley Data, v2
 http://dx.doi.org/10.17632/5y9wdsg2zt.2.
-- `mem_record_cnn-bb.txt` and `new_folder` — recorded monitoring data
+- `mem_record_cnn-bb.txt` and `new_folder` — recorded monitoring data (example data - For detailed data for each platform, please email: **sfarjad@unomaha.edu**)
 
 ## Models
 The trained models are not included directly in this repository.
